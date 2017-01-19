@@ -1,0 +1,48 @@
+/* 
+* @Author: anchen
+* @Date:   2017-01-19 14:31:53
+* @Last Modified by:   anchen
+* @Last Modified time: 2017-01-19 22:51:35
+*/
+* { 
+    font-weight : bold;
+    line-height : 2em;
+}
+html {
+    background-color : gray;
+}
+body {
+    position : relative;
+    width : 45%;
+    left : 25%;
+    outline : gray solid 1px;
+    background-color : white;
+    min-width:650px;
+}
+div {
+    margin : 20px;
+}
+ul {
+    list-style : none;
+}
+.topBar {
+    color : white;
+    font-size : 1.3em;
+    background-color : DarkSlateBlue;
+}
+#header_right {
+    position : absolute;
+    top : 30px;
+    right : 30px;
+}
+#header_left {
+    margin : -20px -20px 0px -20px;
+}
+h1 {
+    padding-top : 40px;
+    margin-left : 200px;
+    
+}
+#selfComment {
+        text-indent : -2em;
+}
